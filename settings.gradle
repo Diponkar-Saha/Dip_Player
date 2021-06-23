@@ -1,0 +1,2 @@
+rootProject.name = "Dip_Player"
+include ':app'
